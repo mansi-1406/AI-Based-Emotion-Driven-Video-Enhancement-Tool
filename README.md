@@ -1,4 +1,9 @@
 # AI-Based Emotion-Driven Video Enhancement Tool
+Author : Mansi Shete
+
+Affiliation : RTMNU
+
+Date : March 2026
 # Abstract
 This project presents an AI-Driven Emotion-Aware Video Editing Tool that automatically enhances videos based on detected human emotions. The system analyzes facial expressions and audio from the input video to identify emotions such as happiness, sadness, or anger. Based on the detected emotion, the tool applies suitable edits like color adjustments, background music, and transitions to improve the overall impact of the video. By combining Artificial Intelligence, computer vision, and video processing techniques, this system reduces manual editing effort and helps create more engaging and emotionally expressive videos efficiently.
 # Introduction
